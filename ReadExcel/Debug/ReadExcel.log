@@ -1,2 +1,4 @@
 ﻿  ReadExcel.cpp
+c:\users\_mariyka__\documents\readexcel\readexcel\readexcel.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\_mariyka__\documents\readexcel\readexcel\readexcel.cpp(36): warning C4101: pos_end: неиспользованная локальная переменная
   ReadExcel.vcxproj -> C:\Users\_mariyka__\Documents\ReadExcel\Debug\ReadExcel.exe
